@@ -1,11 +1,11 @@
 Hi there, I'm a PhD student  working primarily on Cyber security and Deep learning.
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tlkh&count_private=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amr-Navy&count_private=true&theme=dark" />
 </a>
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlkh&layout=compact&count_private=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Navy&layout=compact&count_private=true&theme=dark" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tlkh.visitor-badge&left_color=green&right_color=red)
